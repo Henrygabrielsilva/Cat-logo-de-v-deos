@@ -1,0 +1,27 @@
+* {
+  text-align: center;
+}
+
+body {
+  padding: 1em;
+  background: black;
+}
+
+h3 {
+  font-weight: 100;
+}
+
+header, footer {
+  color: whitesmoke;
+}
+
+iframe {
+  border-radius: 20px;
+}
+
+main{
+  background: whitesmoke ;
+  padding: 30px;
+  border-radius: 30px;
+}
+
